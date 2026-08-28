@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Tableau local files / temporary files
+*.twb.lock
+*.tmp
+
+# Python / notebook artifacts if added later
+__pycache__/
+.ipynb_checkpoints/
