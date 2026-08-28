@@ -149,11 +149,3 @@ credit-card-transaction-analytics/
 └── report/
     └── credit_card_transaction_analytics_final_report.pdf
 ```
-
-## Resume Description
-
-> **Credit Card Transaction & Customer Analytics** — Analyzed 60K synthetic credit-card transactions across 7,995 customers using MySQL, applying CTEs, window functions (`LAG`, `NTILE`, ranking), RFM/CLV analysis and revenue-concentration techniques to identify high-value customers, reactivation opportunities and transaction-decline patterns; visualized portfolio trends in Tableau.
-
-## Interview Summary
-
-> I built a synthetic credit-card analytics project to simulate how a bank could evaluate transaction performance and customer value. I used MySQL to calculate portfolio KPIs, customer-level summaries, RFM segmentation, CLV proxies, revenue concentration and decline-rate analysis, then used Tableau to communicate the key trends. One of the strongest findings was that 4,287 customers account for 80% of revenue, while the Lost Customer segment still represents 22.48% of revenue, creating a potential reactivation opportunity.
