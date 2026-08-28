@@ -122,7 +122,7 @@ The Tableau layer includes:
 - Decline rate by category
 - Merchant decline-rate analysis
 
-![Tableau Dashboard](tableau/dashboard_screenshot.png)
+![Tableau Dashboard](<img width="1281" height="1026" alt="dashboard" src="https://github.com/user-attachments/assets/1628855e-f619-442f-b28c-8104cef1ac44" />)
 
 > **Tableau source note:** the current screenshot was produced from a different imported Excel/CSV data state, so its displayed KPI values do not exactly reconcile with the MySQL source-of-truth figures above. The final portfolio version should refresh Tableau against the canonical dataset in `data/credit_card_transactions.csv`.
 
